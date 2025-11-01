@@ -8,15 +8,15 @@ Live demo: https://pokedex-web-phi.vercel.app/
 ---
 
 ## Features
-- List of Pokémon with pagination (you can place a like on any pokemon you want)
+- List of Pokémon with pagination (you can place a like on any Pokémon you want)  
 - Individual Pokémon detail pages
 
 ---
 
 ## Tech stack
-- Next.js (React)
-- Fetch (API calls)
-- CSS using Bootstrap
+- Next.js (React)  
+- Fetch API for retrieving Pokémon data  
+- CSS using Bootstrap  
 - Deployed on Vercel
 
 ---
@@ -28,10 +28,10 @@ Live demo: https://pokedex-web-phi.vercel.app/
 git clone https://github.com/Baizho/Pokedex-nextjs-web.git
 cd Pokedex-nextjs-web
 
-# install
+# install dependencies
 npm install
 
-# dev
+# start development server
 npm run dev
-# open http://localhost:3000
-# Pokedex — Next.js Web
+
+# open http://localhost:3000 in your browser
